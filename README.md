@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JavaScript and Kotlin**
 
-- 📫 How to reach me **https://instagram.com/deniseezy**
-
 - ⚡ Fun fact **I enjoy creating minimalistic apps**
 
 <h3 align="left">Connect with me:</h3>
