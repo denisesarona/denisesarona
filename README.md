@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denisesarona&label=Profile%20views&color=0e75b6&style=flat" alt="denisesarona" /> </p>
 
-- 🔭 I’m currently working on **To Do App**
+- 🔭 I’m currently working on a **To Do App**
 
 - 🌱 I’m currently learning **JavaScript and Kotlin**
 
