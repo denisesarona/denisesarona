@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://instagram.com/deniseezy**
 
-- ⚡ Fun fact **I enjoy creating minimalistic apps and websites**
+- ⚡ Fun fact **I really enjoy creating minimalistic apps and websites**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
