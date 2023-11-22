@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Denise Sarona</h1>
-<h3 align="center">I'm an App Developer based Philippines. I really enjoy solving problems, creating my ideas to life, and learning new languages and framweworks.</h3>
+<h3 align="center">I'm an App Developer based Philippines. I really enjoy solving problems, creating my ideas to life, and learning new languages and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denisesarona&label=Profile%20views&color=0e75b6&style=flat" alt="denisesarona" /> </p>
 
