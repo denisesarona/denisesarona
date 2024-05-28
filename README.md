@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on a project called **AquaFlow**
 
-- 🌱 I’m currently learning **Javascript and PHP**
-
-- 📫 How to reach me **https://instagram.com/deniseezy**
+- 🌱 I’m currently learning **Javascript**
 
 - ⚡ Fun fact **I really enjoy creating minimalistic apps and websites**
 
