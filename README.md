@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denisesarona&label=Profile%20views&color=0e75b6&style=flat" alt="denisesarona" /> </p>
 
-- 🔭 I’m currently working on a project called **AquaFlow**
+- 🔭 I’m currently working on a project called **NavigateU**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C#**
 
 - ⚡ Fun fact **I really enjoy creating minimalistic apps and websites**
 
